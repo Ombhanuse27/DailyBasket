@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="hotel_card_bg">#FFFFFF</color>
+    <color name="rating_bg">#3F51B5</color>
+    <color name="app_bg">#daedfc</color>
+    <color name="hotel_search_bg">#C8E1E1E1</color>
+    <color name="hotel_search_border">#BDBDBD</color>
+    <color name="gray">#E1C6C6C6</color>
+    <color name="calbtn">#0f93fe</color>
+    <color name="transparent">#00000000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="blue">#0000FF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="light_gray">#E0E0E0</color>
+    <color name="dark_gray">#616161</color>
+    <color name="light_green">#8BC34A</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+
+    <color name="colorPrimary">#007359</color>
+
+
+    <color name="account_title">#007359</color>
+</resources>
